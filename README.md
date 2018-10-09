@@ -4,4 +4,8 @@ Script to find the close meteorites site
 # Running
 This project requires Python 3 and the Requests package
 
-`python3 find_meteor.py`
+First install pipenv. Then:
+```
+pipenv install
+pipenv run "python find_meteor.py"
+```
